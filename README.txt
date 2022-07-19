@@ -21,7 +21,7 @@ Code Limitations:
 
 Deviations from Assignment Specifications:
 
-"Lucky" by Russ included in zip file for testing purposes.
+"Lucky" by Russ included for testing purposes.
 
 
 References:
